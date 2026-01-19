@@ -1,0 +1,5 @@
+{
+  "name": "FinancePro - Control de Finanzas Personales",
+  "description": "Una aplicación integral para gestionar gastos, ingresos e inversiones en CDT con visualizaciones interactivas y persistencia de datos.",
+  "requestFramePermissions": []
+}
